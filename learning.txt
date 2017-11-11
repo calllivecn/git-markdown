@@ -1,2 +1,3 @@
 continue learning
-继续学习分支合并。
+rename test to learn-git 
+change 
