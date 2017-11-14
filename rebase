@@ -4,8 +4,5 @@ dev branch
 c3 master -- rebase
 c4 master -- rebase
 测试rebase
-<<<<<<< HEAD
 c1 dev --- rebase
-=======
 测试rebase_c2
->>>>>>> c2 --- rebase
