@@ -1,3 +1,4 @@
 interactive ---- dev
 interactive ---- dev , commit 2
 interactive ---- dev , commit 3
+rebase interactive --- master
