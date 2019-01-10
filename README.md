@@ -3,7 +3,7 @@
 
 <br/>
 
-## 字体，颜色：
+## 字体，颜色："在github上不行。。。"
 
 <font face="黑体" size=10>我是黑体字</font>
 <font face="微软雅黑" size=10>我是微软雅黑</font>
