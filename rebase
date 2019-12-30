@@ -1,14 +1,1 @@
-rebase master
-dev branch
-在这变基
-c3 master -- rebase
-c4 master -- rebase
-测试rebase
-c1 dev --- rebase
-测试rebase_c2
-
-
-
-
-
-C10 master ---- rebaser
+rebase master...
